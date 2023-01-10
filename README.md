@@ -1,1 +1,1 @@
-# java-coding-challenges
+# coding-challenges-java
